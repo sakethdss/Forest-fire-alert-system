@@ -12,4 +12,9 @@ Step 5: We integrate our project with the Blynk app to make it accessible easily
 Step 6:  We upload the code on the Arduino IDE into the NodeMCU by connecting them through a Micro USB data cable.
 Step 7: Now, we have the system ready and in place. When the sensors are triggered upon detection of fire, an alert message is sent to the authorities to bring the situation under control easily.
 
+**Circuit Diagram**- 
+
+![circuit diagram](https://github.com/sakethdss/Forest-fire-alert-system-/assets/162797972/8fd9a9c2-eb3b-46d7-902f-1216c2844e98)
+
+
 The system uses a flame sensor to detect fire. The unique feature of this system is that it receives a push notification to your smartphone in the event of a fire at the connected location. Further version of the project include using MQ2, MQ6 sensors and a communication system to send mails and messages to the authorities. 
