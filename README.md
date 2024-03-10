@@ -1,4 +1,4 @@
-# Forest-fire-alert-system- 
+# Forest-fire-alert-system
 
 **AIM**- To detect forest fires in deep forests and send alert signals to prevent loss of vegetation and wildlife. 
 
