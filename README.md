@@ -1,6 +1,7 @@
 # Forest-fire-alert-system- 
 
 **AIM**- To detect forest fires in deep forests and send alert signals to prevent loss of vegetation and wildlife. 
+
 (Based on the forest inventory records, 54.40% of forests in India are exposed to occasional fires, 7.49% to moderately frequent fires and 2.40% to high incidence levels while 35.71% of India’s forests have not yet been exposed to fires of any real significance. According to the details shared by the minister, the number of forest-fire alerts between November 2019 and June 2020 was 1,24,473. This was possible because of the forest fire alert systems that are in place. There are many other forests where this system is yet to be installed in.)
 
 **Procedure**- 
