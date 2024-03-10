@@ -22,6 +22,6 @@ Step 7: Now, we have the system ready and in place. When the sensors are trigger
 
 **Circuit Diagram**- 
 
-![circuit_diagram-transformed](https://github.com/sakethdss/Forest-fire-alert-system-/assets/162797972/ae40ab8e-3204-4a59-a52d-17867a369811)
+![Screenshot 2024-03-10 144434](https://github.com/sakethdss/Forest-fire-alert-system/assets/162797972/eaf788d3-9c11-4da6-9568-0c2906b79281)
 
-The system uses a flame sensor to detect fire. The unique feature of this system is that it receives a push notification to your smartphone in the event of a fire at the connected location. Further version of the project include using MQ2, MQ6 sensors and a communication system to send mails and messages to the authorities. 
+The system uses a flame sensor to detect fire. The unique feature of this system is that it receives a push notification to your smartphone in the event of a fire at the connected location. Further version of the project include using MQ2, MQ6 sensors and a communication system to send mails and messages to the authorities.
