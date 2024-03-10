@@ -1,0 +1,10 @@
+Components used are: 
+
+1) ESP8266 NodeMCU board
+2) Flame detection module
+3) MQ2 smoke sensor
+4) Two LEDs
+5) Two 180-ohm resistors
+6) One buzzer
+7) A breadboard
+8) Assorted jumper cables
