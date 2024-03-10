@@ -1,7 +1,3 @@
-#define BLYNK_PRINT Serial // Define BLYNK_PRINT to use Serial for debugging
-#include <ESP8266WiFi.h> // Include the ESP8266WiFi library
-#include <BlynkSimpleEsp8266.h> // Include the Blynk library for ESP8266
-
 char auth[] = "YourAuthToken"; // Your Blynk authentication token
 char ssid[] = "YourWiFiSSID"; // Your WiFi network SSID
 char pass[] = "YourWiFiPassword"; // Your WiFi network password
